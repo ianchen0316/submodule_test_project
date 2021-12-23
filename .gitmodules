@@ -1,0 +1,3 @@
+[submodule "submodule_source"]
+	path = submodule_source
+	url = https://github.com/ianchen0316/submodule_source.git
